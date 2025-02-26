@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE declaration SYSTEM "declare.dtd">
+<?xml-stylesheet type="text/css" href="style.css"?>
+<declaration>
+    <info>
+        <person>
+            <firstname>Іван</firstname>
+            <lastname>Петренко</lastname>
+            <middlename>Олексійович</middlename>
+            <country>Україна</country>
+        </person>
+        <destination>Франція</destination>
+        <financial currency="EUR">1000</financial>
+        <specialbaggage>Музичний інструмент - гітара</specialbaggage>
+    </info>
+    <info>
+        <person>
+            <firstname>Марія</firstname>
+            <lastname>Коваленко</lastname>
+            <middlename>Василівна</middlename>
+            <country>Україна</country>
+        </person>
+        <destination>Німеччина</destination>
+        <financial currency="EUR">1500</financial>
+        <specialbaggage>Фотокамера професійна</specialbaggage>
+    </info>
+    <info>
+        <person>
+            <firstname>Олег</firstname>
+            <lastname>Сидоренко</lastname>
+            <middlename>Ігорович</middlename>
+            <country>Україна</country>
+        </person>
+        <destination>Італія</destination>
+        <financial currency="EUR">2000</financial>
+        <specialbaggage>Картина для виставки</specialbaggage>
+    </info>
+</declaration>

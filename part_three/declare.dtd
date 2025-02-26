@@ -1,0 +1,11 @@
+<!ELEMENT declaration (info+)>
+<!ELEMENT info (person, destination, financial, specialbaggage)>
+<!ELEMENT person (firstname, lastname, middlename, country)>
+<!ELEMENT firstname (#PCDATA)>
+<!ELEMENT lastname (#PCDATA)>
+<!ELEMENT middlename (#PCDATA)>
+<!ELEMENT country (#PCDATA)>
+<!ELEMENT destination (#PCDATA)>
+<!ELEMENT financial (#PCDATA)>
+<!ATTLIST financial currency CDATA #REQUIRED>
+<!ELEMENT specialbaggage (#PCDATA)>
